@@ -1,0 +1,13 @@
+{
+  "theme": "DARK",
+  "encoding": "utf-8",
+  "protocol": "HTTPS",
+  "timelineEnabled": false,
+  "offlineMode": true,
+  "thumbnailForBase64": false,
+  "documentTitle": "Extent Title",
+  "reportName": "Test Reports",
+  "timeStampFormat": "dd/MM/yyyy HH:mm:ss",
+  "js": "document.getElementsByClassName('logo')[0].style.display = 'none';",
+  "css": ".badge-default{background-color:yellow}"
+}
